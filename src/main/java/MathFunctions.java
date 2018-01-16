@@ -13,6 +13,12 @@ public class MathFunctions {
         return res;
     }
 
-    public static
+    public static int addition(int a, int b){
+        return a + b;
+    }
+
+    public static int deduction(int a, int b){
+        return a - b;
+    }
 
 }
